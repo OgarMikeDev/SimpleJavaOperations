@@ -1,5 +1,12 @@
 public class Main {
     public static void main(String[] args) {
+        /*
+        Написать функцию, которая принимает строку и
+        оставляет в ней только буквы и числа,
+        удаляя все остальное.
+        Возвращает получившуюся строку.
+         */
+
         String text = "Hello. My name is Mike. My age - 23.";
         String updateText = "";
 //        String regexForLetters = "[a-zA-Z]";

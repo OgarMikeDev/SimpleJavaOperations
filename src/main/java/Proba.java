@@ -2,6 +2,13 @@ import java.util.ArrayList;
 
 public class Proba {
     public static void main(String[] args) {
+       /*
+        Написать функцию, которая принимает строку и
+        оставляет в ней только буквы и числа,
+        удаляя все остальное.
+        Возвращает получившуюся строку.
+         */
+
         String text = "Hello. My name is Mike. My age - 23.";
 
         for (int i = 0; i < text.length(); i++) {

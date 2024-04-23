@@ -1,5 +1,12 @@
 public class MainThree {
     public static void main(String[] args) {
+        /*
+        Написать функцию,
+        которая принимает аргумент –
+        строку и возвращает список,
+        содержащий количество букв и цифр в строке.
+         */
+
         String text = "Hello. My name is Mike. My age - 23.";
         int countLetters = 0;
         int countNumbers = 0;

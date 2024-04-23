@@ -2,6 +2,13 @@ import java.util.ArrayList;
 
 public class MainTwo {
     public static void main(String[] args) {
+        /*
+        Написать функцию, которая принимает два списка целых,
+        заполненных случайными числами.
+        Функция формирует и возвращает новый список,
+        содержащий элементы обоих списков без повторений.
+         */
+
         ArrayList<Integer> listFirst = new ArrayList<>();
         ArrayList<Integer> listSecond = new ArrayList<>();
         ArrayList<Integer> listThird = new ArrayList<>();
