@@ -14,7 +14,7 @@ public class MainFour {
 
         ArrayList<Integer> listFirst = new ArrayList<>();
 
-        for (int i = 0; i < (int) (1 + Math.round(Math.random() * 9)); i++) {
+        for (int i = 0; i < (int) (10 + Math.round(Math.random() * 10)); i++) {
             listFirst.add((int) (-5 + Math.round(Math.random() * 10)));
         }
 
